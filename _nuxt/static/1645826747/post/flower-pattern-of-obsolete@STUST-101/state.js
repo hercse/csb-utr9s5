@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1645826747",layout:"default",error:a,serverRendered:true,routePath:"\u002Fpost\u002Fflower-pattern-of-obsolete@STUST-101",config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},http:{browserBaseURL:b},content:{dbHash:"a467891b"}}}}(null,"\u002F"));
