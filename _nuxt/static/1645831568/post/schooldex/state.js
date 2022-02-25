@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1645831568",layout:"default",error:a,serverRendered:true,routePath:"\u002Fpost\u002Fschooldex",config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},http:{browserBaseURL:b},content:{dbHash:"ad5cb5e3"}}}}(null,"\u002F"));
