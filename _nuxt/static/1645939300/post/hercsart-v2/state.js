@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1645939300",layout:"default",error:a,serverRendered:true,routePath:"\u002Fpost\u002Fhercsart-v2",config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},http:{browserBaseURL:b},content:{dbHash:"4fce6a53"}}}}(null,"\u002F"));
