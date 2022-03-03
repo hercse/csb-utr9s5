@@ -1,0 +1,10 @@
+{
+  "name": "/-/.SE",
+  "short_name": "neverdown",
+  "description": "> Nuxt starter for CodeSandBox (used for https://template.nuxtjs.org)",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
